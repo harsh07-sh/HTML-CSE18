@@ -1,0 +1,43 @@
+.odd{
+    color: hsl(135, 60%, 68%);
+    
+}
+body{
+
+    background-color: rgb(14, 16, 15);
+}
+.para{
+    color: rgb(216, 99, 122);
+}
+#para2{
+    color: aqua;
+}
+div{
+    background-color: hsl(90, 17%, 98%)
+
+}
+body{
+    font-style: italic ;
+}
+#box {
+    color: rgb(230, 13, 121);
+}
+    a:link{
+text-decoration: none; font-style: italic;
+    }
+a:hover{
+color: blueviolet;
+}
+a:active{
+color: brown;
+}
+a:visited{
+color: bisque;
+}
+#box2{
+    background-color: rgb(32, 255, 210);
+}
+
+
+
+
