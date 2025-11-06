@@ -38,6 +38,10 @@ color: bisque;
     background-color: rgb(32, 255, 210);
 }
 
-
-
+.one{
+    color: hsl(160, 94%, 50%);
+}
+.two{
+    color: hsl(300, 77%, 55%);
+}
 
