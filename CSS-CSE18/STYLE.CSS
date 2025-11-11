@@ -11,7 +11,7 @@ body{
 margin: 0px;
 padding: 0px;
 } */
-    .one{
+    /* .one{
         width: 940px;
         height: 300px;
         background-color: lightgreen;
@@ -27,10 +27,31 @@ padding: 0px;
     width: 300px;
     height: 300px;
     background-color: violet;
-    margin: 0  auto ;
+    margin: 0  auto ; */
 
     
-}
+/* }
 .main{
-    background-color: hsl(209, 95%, 70%);
+    background-color: hsl(209, 81%, 52%);
+} */
+body{
+    /* background-color: rgba(241, 249, 219, 0.966);
+    margin: 0;
+    padding: 0;
+  background-image: url(./giyu.jpg);
+  background-size: 300px 150px ;
+  background-repeat: repeat-x; */
+  background: url(./giyu.jpg) repeat-x top right #999  ;
+
 }
+
+
+
+
+
+
+
+
+
+
+
