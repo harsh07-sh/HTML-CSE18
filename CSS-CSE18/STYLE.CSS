@@ -91,7 +91,39 @@ section{
 
 }
  */
+ *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
 
+ }
+ main{
+    width:100%;
+    height:auto;
+    background-color: rgb(87, 251, 251);
+    display: grid;
+    grid-template-rows: repeat(4,1fr);
+    gap:10px;
+
+ }
+ .box{
+    background-color: rgb(119, 48, 186);
+   
+
+ }
+ /* @media screen and (max-width:460px){
+    main{
+        background-color: blue;
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        gap: 10px;
+    }
+ }
+@media screen and (max-width:500px){
+    .box{
+        background-color: yellow;
+    }
+} */
 
 
 
